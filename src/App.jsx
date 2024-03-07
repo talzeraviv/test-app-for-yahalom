@@ -7,7 +7,7 @@ function App() {
       <h1>Hello Yahalom 1104</h1>
       <div>
         <p>
-          We will deploy this app to Vercel.
+          We have deployed the app to vercel 🔥
         </p>
       </div>
     </>
